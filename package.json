@@ -1,0 +1,17 @@
+{
+  "name": "defmethod-cli",
+  "version": "1.0.0",
+  "description": "Goodcall NYC Assessment",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Abdulnasir Abdirahman",
+  "license": "ISC",
+  "bin": {
+    "sort": "./bin/index.js"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
