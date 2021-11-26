@@ -73,7 +73,7 @@ To get a local copy up and running follow the simple example steps below.
 
 * Installing CLI Tool
 
-1. Unzip file & open in IDE
+1. Download ZIP File, Unzip file & open in IDE
 2. Install NPM packages
    ```sh
    npm install
