@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-//VERSION 2 OF INDEX.JS--HAS ALL CONVERSION IN ONE FUNCTION
+//VERSION 2 OF INDEX.JS--HAS ALL CONVERSION/SORTING IN ONE FUNCTION
 const fs = require("fs");
 const sort = require("../converters/sorters");
 

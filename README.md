@@ -106,7 +106,7 @@ To get a local copy up and running follow the simple example steps below.
 ## Usage
 
 This script sorts SPECIFIC .txt files in the file folder. Comma delimited, pipe delimited and space delimited input files. The order of properties are different for each .txt file. 
-After sorting the properties are displayed; "last name, first name, gender, date of birth, favorite color"
+After sorting the properties are displayed by "last name, first name, gender, date of birth, favorite color"
 
 
 ## Contact
