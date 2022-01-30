@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Node JS CLI Assessment</h3>
+  <h3 align="center">Node JS CLI</h3>
 
   <p align="center">
     A simple CLI application that parses input files and returns an expected output after sorting.
